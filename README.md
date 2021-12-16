@@ -1,9 +1,9 @@
 # Projet 4 : Shaders
 
 - Mahé Barthélémy : 
-*      Shader pour la lave - M_Lava
-*     Shader pour les fissures - M_LavaFissures1 - M_LavaFissures2
-*      Shader pour la réflexion - M_Reflection
+> *      Shader pour la lave - M_Lava
+> *     Shader pour les fissures - M_LavaFissures1 - M_LavaFissures2
+> *      Shader pour la réflexion - M_Reflection
 
 - Taurand Hugo : 
  *    Shader du lifepack - M_Liquid
